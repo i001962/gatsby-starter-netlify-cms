@@ -23,7 +23,7 @@ collections:
 
   - name: "dist"
     label: "Dist"
-    folder: "src/pages/blog"
+    folder: "src/pages/dist"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
