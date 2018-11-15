@@ -6,6 +6,7 @@ publish_mode: editorial_workflow
 
 media_folder: static/img
 public_folder: /img
+display_url: https://sharp-goldwasser-2b2d11.netlify.com
 
 collections:
   - name: "blog"
